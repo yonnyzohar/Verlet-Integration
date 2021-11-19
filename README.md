@@ -9,3 +9,5 @@ This is particularly good for rag doll simulations, and also sheets.
 I made a small sheet simulation using this method, but i wanted to add some more jazz to it.
 I recently posted the video on triangle rasterzation and using the sticks method is a perfect candidate for this. There is nothing stopping from looking at the sticks wireframe as polygons and that's exactly what did.
 It's remarkable how easily you can create something so complex with such a simple set of rules.
+
+https://www.facebook.com/watch/?v=597981768006122
